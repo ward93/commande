@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.7" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" language="java" name="com.afpa59.jamal.ui.menu.UIMenuSwingGenerale" project="GestionCommandes" 
+    file="/GestionCommandes/src/com/afpa59/jamal/ui/menu/UIMenuSwingGenerale.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1089" width="241" x="1765" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.afpa59.jamal.services.ServiceCommande" project="GestionCommandes" 
+    file="/GestionCommandes/src/com/afpa59/jamal/services/ServiceCommande.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="170" x="1565" y="1166"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.afpa59.jamal.ui.client.UIEntiteClientConsole" project="GestionCommandes" 
+    file="/GestionCommandes/src/com/afpa59/jamal/ui/client/UIEntiteClientConsole.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="153" width="179" x="42" y="1719"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.afpa59.jamal.services.Critere" project="GestionCommandes" 
+    file="/GestionCommandes/src/com/afpa59/jamal/services/Critere.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="124" x="42" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="5" language="java" name="com.afpa59.jamal.ui.UIEntite" project="GestionCommandes" 
+    file="/GestionCommandes/src/com/afpa59/jamal/ui/UIEntite.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="132" x="457" y="1166"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="6" language="java" name="com.afpa59.jamal.ui.commande.UIEntiteCommandeConsole" project="GestionCommandes" 
+    file="/GestionCommandes/src/com/afpa59/jamal/ui/commande/UIEntiteCommandeConsole.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="153" width="201" x="261" y="1719"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="com.afpa59.jamal.appli.GestionCommandes" project="GestionCommandes" 
+    file="/GestionCommandes/src/com/afpa59/jamal/appli/GestionCommandes.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="139" x="751" y="1719"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="com.afpa59.jamal.services.ServiceArticle" project="GestionCommandes" 
+    file="/GestionCommandes/src/com/afpa59/jamal/services/ServiceArticle.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="254" x="629" y="1166"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="com.afpa59.jamal.data.Commande" project="GestionCommandes" 
+    file="/GestionCommandes/src/com/afpa59/jamal/data/Commande.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="405" width="208" x="1175" y="1719"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="10" language="java" name="com.afpa59.jamal.services.ServiceEntite" project="GestionCommandes" 
+    file="/GestionCommandes/src/com/afpa59/jamal/services/ServiceEntite.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="124" x="1240" y="1166"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="11" language="java" name="com.afpa59.jamal.data.Entite" project="GestionCommandes" 
+    file="/GestionCommandes/src/com/afpa59/jamal/data/Entite.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="121" x="1404" y="1166"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="com.afpa59.jamal.ui.article.UIEntiteArticleSwing" project="GestionCommandes" 
+    file="/GestionCommandes/src/com/afpa59/jamal/ui/article/UIEntiteArticleSwing.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="513" width="231" x="1775" y="1166"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="com.afpa59.jamal.ui.UIOutilsConsole" project="GestionCommandes" 
+    file="/GestionCommandes/src/com/afpa59/jamal/ui/UIOutilsConsole.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="156" x="261" y="1166"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="com.afpa59.jamal.services.ServiceBaseEntite" project="GestionCommandes" 
+    file="/GestionCommandes/src/com/afpa59/jamal/services/ServiceBaseEntite.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="167" x="1240" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="com.afpa59.jamal.data.Article" project="GestionCommandes" 
+    file="/GestionCommandes/src/com/afpa59/jamal/data/Article.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="155" x="1404" y="2164"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="com.afpa59.jamal.data.Client" project="GestionCommandes" 
+    file="/GestionCommandes/src/com/afpa59/jamal/data/Client.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="178" x="1444" y="1719"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="com.afpa59.jamal.ui.article.UIEntiteArticleConsole" project="GestionCommandes" 
+    file="/GestionCommandes/src/com/afpa59/jamal/ui/article/UIEntiteArticleConsole.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="153" width="209" x="502" y="1719"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="com.afpa59.jamal.services.ServiceClient" project="GestionCommandes" 
+    file="/GestionCommandes/src/com/afpa59/jamal/services/ServiceClient.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="277" x="923" y="1166"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="com.afpa59.jamal.ui.UIEntiteBase" project="GestionCommandes" 
+    file="/GestionCommandes/src/com/afpa59/jamal/ui/UIEntiteBase.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="132" x="422" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="com.afpa59.jamal.ui.client.UIEntiteClientSwing" project="GestionCommandes" 
+    file="/GestionCommandes/src/com/afpa59/jamal/ui/client/UIEntiteClientSwing.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="585" width="176" x="206" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="21">    
+    <bendpoint x="1413" y="1719"/>    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <generalization id="22">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <generalization id="23">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <generalization id="24">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <association id="25">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="26" name="alEntites">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="27" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="28">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <generalization id="29">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <realization id="30">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="5"/>  
+  </realization>  
+  <realization id="31">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="10"/>  
+  </realization>  
+  <generalization id="32">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="13"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
